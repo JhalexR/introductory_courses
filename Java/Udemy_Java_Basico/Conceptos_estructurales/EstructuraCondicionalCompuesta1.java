@@ -1,10 +1,10 @@
-package Udemy_Java_Basico.EstructuraCondicionalCompuesta1;//patrón arquitectónico de paquetes se estabece una jerarquia de paquetes
+package Udemy_Java_Basico.Conceptos_estructurales; //patrón arquitectónico de paquetes se estabece una jerarquia de paquetes
 
 import java.util.Scanner;
 
 public class EstructuraCondicionalCompuesta1 {
 
-    public static void main(String[] ar) {
+    public static void main(String[] args) {
     	Scanner teclado=new Scanner(System.in);
     	int num1,num2;
     	System.out.print("Ingrese primer valor:");
@@ -16,6 +16,7 @@ public class EstructuraCondicionalCompuesta1 {
     	} else {
     		System.out.print(num2);
     	}
+	teclado.close();
     }
 }
 

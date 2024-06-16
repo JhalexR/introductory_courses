@@ -1,9 +1,10 @@
-package Udemy_Java_Basico.EstructuraCondicionalSimple1; //patrón arquitectónico de paquetes se estabece una jerarquia de paquetes
+package Udemy_Java_Basico.Conceptos_estructurales; //patrón arquitectónico de paquetes se estabece una jerarquia de paquetes
 
+import java.util.Scanner;
 
 public class EstructuraCondicionalSimple1 {
 
-    public static void main(String[] ar) {
+    public static void main(String[] args) {
         // variables
          Scanner teclado=new Scanner(System.in);
          float sueldo;
@@ -12,5 +13,6 @@ public class EstructuraCondicionalSimple1 {
          if (sueldo>3000) {
              System.out.println("Esta persona debe abonar impuestos");
          }
+    teclado.close();
     }
 }

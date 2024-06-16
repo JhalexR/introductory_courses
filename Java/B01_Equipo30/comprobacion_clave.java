@@ -1,10 +1,13 @@
-package B01_GRUPO30;
+package B01_Equipo30;
 
 import java.util.Scanner;
 
 // definicion de clase para comprobacion de contrasena segura
 public class comprobacion_clave {
     
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
 
         //captura de contrasena en cadena de caracteres
@@ -21,7 +24,8 @@ public class comprobacion_clave {
         System.out.println("La contrasena ingresada es segura.");
         else 
         System.out.println("La contrasena ingresada no es segura."); 
-        
+
+        clavve.close();
     }
 
     // metodo para validar si la contrasena es segura
@@ -67,6 +71,7 @@ public class comprobacion_clave {
     
         else
             return score;
-    } 
+    
+    }     
 
 }

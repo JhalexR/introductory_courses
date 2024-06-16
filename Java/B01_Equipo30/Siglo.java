@@ -1,4 +1,4 @@
-package B01_GRUPO30;
+package B01_Equipo30;
 
 /*
  * Autores
