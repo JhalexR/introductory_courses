@@ -62,3 +62,4 @@ print((num1+num2)*num3-num4) #aun primero es la +
 print((num1+num2)*(num3-num4)) #primero es la + luego - y ultimo *
 
 print((num1+num2)*(num3-num4)/(num1-num4)) #primero es la + luego - y ultimo * y /
+
