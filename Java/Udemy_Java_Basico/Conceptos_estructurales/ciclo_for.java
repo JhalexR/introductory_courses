@@ -15,13 +15,14 @@ public class ciclo_for {
                     System.out.print("Ingrese valor:");
                     valor=teclado.nextInt();
                     suma=suma+valor;
+                    teclado.close();
                 }
                 System.out.print("La suma es:");
                 System.out.println(suma);
                 promedio=suma/10;
                 System.out.print("El promedio es:");
                 System.out.print(promedio);
-                teclado.close();
+                
     }
     
 }
