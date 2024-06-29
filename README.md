@@ -16,7 +16,7 @@ Cada carpeta del repositorio está dedicada a un lenguaje de programación espec
 
 ## Contacto
 
-Para cualquier pregunta o comentario, puedes contactarme a través de: rojas-jhalex@gmail.com
+Para cualquier pregunta o comentario, puedes contactarme a través de: rojas.jhalex@gmail.com
 
 
 # Introductory Course Project Repository
@@ -37,4 +37,4 @@ Each folder in the repository is dedicated to a specific programming language an
 
 ## Contact
 
-For any questions or comments, you can contact me through: roja-jhalex@gmail.com
+For any questions or comments, you can contact me through: roja.jhalex@gmail.com
