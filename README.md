@@ -1,9 +1,3 @@
-# Folder donde guardo las lecciones de curso udemy
-
-## El nombre del curso 
-
-
-
 # Introductory Course Project Repository
 
 Welcome to the repository where I will store the code and projects created during the introductory courses of various programming languages.
@@ -23,7 +17,3 @@ Each folder in the repository is dedicated to a specific programming language an
 ## Contact
 
 rojas.jhalex@gmail.com
-
-## Contact
-
-For any questions or comments, you can contact me through: roja.jhalex@gmail.com
